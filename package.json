@@ -1,5 +1,12 @@
 {
   "dependencies": {
     "discord.js": "discordjs/discord.js"
-  }
+  },
+  "name": "Projet(bot)",
+  "version": "0.1.0",
+  "description": "Projet Discord Arma",
+  "main": "main.js",
+  "repository": "https://github.com/remi3cook/arma.git",
+  "author": "remi3cook <remi.desboyaux@gmail.com>",
+  "license": "MIT"
 }
