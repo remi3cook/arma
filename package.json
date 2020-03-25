@@ -2,7 +2,7 @@
   "dependencies": {
     "discord.js": "discordjs/discord.js"
   },
-  "name": "Projet(bot)",
+  "name": "projet",
   "version": "0.1.0",
   "description": "Projet Discord Arma",
   "main": "main.js",
